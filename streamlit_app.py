@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("☕️ I Love Coffe")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+   "Brewed from darkness, coffee teaches us how to turn bitter into bold." "[docs.streamlit.io](https://docs.streamlit.io/)."
 )
